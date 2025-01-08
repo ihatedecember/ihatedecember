@@ -4,7 +4,7 @@
 
  **私は彼女を愛している** 
 
- ## my skills 
+ ## What Languages Do I know? 
  <a href="https://github.com/marriedtopython">
  <img src ="https://skillicons.dev/icons?i=python,js,vscode,html">
  </a>
