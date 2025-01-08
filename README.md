@@ -1,11 +1,16 @@
-# marriedtopython #
+# marriedtopython - a dev? #
 
 **whats the internet again?**
 
  **私は彼女を愛している** 
 
+ ## my skills 
+ <a href="https://github.com/marriedtopython">
+ <img src ="https://skillicons.dev/icons?i=python,js,vscode,html">
+ </a>
+ 
 
-
+## What am i listening to?
 
 
  
