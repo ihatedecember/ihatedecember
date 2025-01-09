@@ -6,7 +6,7 @@
 
  ## What languages do i know? 
  <a href="https://github.com/marriedtopython">
- <img src ="https://skillicons.dev/icons?i=python,js,vscode,html,C++">
+ <img src ="https://skillicons.dev/icons?i=python,js,vscode,html,Cplusplus">
  </a>
  
 
