@@ -3,7 +3,7 @@
 
 **whats the internet again?**
 
- **私は彼女を愛している** 
+ **私はガールフレンドを愛しています** 
 
  ## What languages do i know? 
  <a href="https://github.com/marriedtopython">
