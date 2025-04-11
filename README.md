@@ -1,7 +1,7 @@
 
 # readme #
 
-**what is github? **
+**what is github?**
 
  **私はガールフレンドを愛しています** 
 
