@@ -1,12 +1,12 @@
 
-# 💫 #
+# readme #
 
-**whats the internet again?**
+**what is github? **
 
  **私はガールフレンドを愛しています** 
 
  ## What languages do i know? 
- <a href="https://github.com/marriedtopython">
+ <a href="https://github.com/ihatedecember">
  <img src ="https://skillicons.dev/icons?i=python,js,vscode,html,cpp">
  </a>
  
