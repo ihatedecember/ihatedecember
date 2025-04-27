@@ -3,7 +3,7 @@
 
 **what is github?**
 
- **私はガールフレンドを愛しています** 
+ **"人生において私よりも優れた人を見つけられることを祈ります"** 
 
  ## What languages do i know? 
  <a href="https://github.com/ihatedecember">
