@@ -1,8 +1,6 @@
 
 # readme #
 
-**what is github?**
-
  **"人生において私よりも優れた人を見つけられることを祈ります"** 
 
  ## What languages do i know? 
@@ -11,7 +9,7 @@
  </a>
  
 
-## What am i listening to?
+## Currently Playing:
 
 
  
